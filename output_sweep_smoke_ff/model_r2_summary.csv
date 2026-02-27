@@ -1,0 +1,2 @@
+model,K,total_r2,predicted_r2,obs_total,obs_predicted,refits,test_months
+FF,3,0.5145594325079459,0.0320500540379095,3598,3598,1,2

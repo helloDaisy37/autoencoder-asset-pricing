@@ -1,0 +1,2 @@
+model,K,total_r2,predicted_r2,obs_total,obs_predicted,refits,test_months
+IPCA,2,0.004517364305074545,-0.0007040957954618232,4819,4819,1,2
